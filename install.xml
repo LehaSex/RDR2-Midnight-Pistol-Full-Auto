@@ -1,0 +1,17 @@
+<EasyInstall>
+    <Name>Midnight Mauser (Full-Auto)</Name>
+    <Author>LehaSex</Author>
+    <Version>1.0.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>update:/x64/packs/base/data/ai/weapons.ymt</GamePath>
+                <FilePath>weapons.ymt</FilePath>
+            </FileReplacement>>
+        </Resource>
+    </Resources>
+</EasyInstall>
